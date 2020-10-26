@@ -15,10 +15,7 @@ class MyStack:
         """
         #self.stack.append(x)
         self.stack.insert(len(self.stack),x)
-        print("출력 시작")
         self.print()
-        print("출력 끝")
-
 
     def pop(self) -> int:
         """
@@ -46,7 +43,6 @@ class MyStack:
 
 # Your MyStack object will be instantiated and called as such:
 obj = MyStack()
-print("obj 생성")
 obj.push(1)
 obj.push(2)
 obj.push(3)
