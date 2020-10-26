@@ -4,7 +4,6 @@ class MyQueue:
         """
         Initialize your data structure here.
         """
-        #선입선출, ->
         self.q=[]
 
     def push(self, x: int) -> None:
@@ -12,9 +11,6 @@ class MyQueue:
         Push element x to the back of queue.
         """
         self.q.insert(len(self.q), x)
-        #self.q.append(x)
-        #큐는 앞에서부터 차곡차곡 쌓고
-        #먼저들어온애가 나가고
 
     def pop(self) -> int:
         """
