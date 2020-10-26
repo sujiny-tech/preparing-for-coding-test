@@ -1,4 +1,5 @@
 nums=[1,2,3,4]
+
 #given an array nums of n integers where n>1,
 #return an array output
 #such that output[i] is equal to the product of all the elements of nums except nums[i]
@@ -13,9 +14,7 @@ for i in range(len(nums)-1):
     ans.append(mid)
 print(ans)
 mid=1
-#[1,1,2,6]
-#[24, 12, 4, 1]
-#[24, 12, 8, 6]
+
 for i in range(len(nums)-1, -1, -1):
     ans[i]*=mid
     mid*=nums[i]
