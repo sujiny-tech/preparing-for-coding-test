@@ -5,7 +5,6 @@ class ListNode:
 
 class Solution:
     def getDecimalValue(self, head: ListNode) -> int:
-        #root = collections.deque([head])
         bin_val = "0b"
 
         while head:
