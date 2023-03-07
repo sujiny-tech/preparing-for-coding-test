@@ -1,4 +1,8 @@
 # preparing-for-coding-test
+> ✨ Purpose: Algorithm study!
 
+## leetcode (Python)
 
-Purpose: Algorithm study!
+## programmers (Golang)
++ level 0
++ level 1
