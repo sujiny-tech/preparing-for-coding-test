@@ -7,9 +7,12 @@
 <details>
 <summary><b> level 0 </b></summary>   
 <div markdown="1">   
-  + 옹알이
-  + 다음에 올 숫자 
-  + 7의 개수
+  
++ 옹알이
++ 다음에 올 숫자 
++ 7의 개수
++ 중앙값 구하기
+
 </div>
 </details>
 
