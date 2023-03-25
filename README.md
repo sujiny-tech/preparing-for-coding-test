@@ -60,7 +60,11 @@
 <details>
 <summary><b> level 1 </b></summary>   
 <div markdown="1">   
-  + 
+
++ [자릿 수 더하기](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level1/SumOfDigits.go)
++ [약수의 합](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level1/SumOfDivisors.go)
++ [짝수와 홀수](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level1/EvenAndOdd.go)
+
 </div>
 </details>
 
