@@ -64,7 +64,8 @@
 + [자릿 수 더하기](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level1/SumOfDigits.go)
 + [약수의 합](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level1/SumOfDivisors.go)
 + [짝수와 홀수](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level1/EvenAndOdd.go)
-
++ [평균 구하기](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level1/CalculateMean.go)
++ [x만큼 간격이 있는 n개의 숫자](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level1/NumbersSpacedByX.go)
 </div>
 </details>
 
