@@ -67,6 +67,8 @@
 + [평균 구하기](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level1/CalculateMean.go)
 + [x만큼 간격이 있는 n개의 숫자](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level1/NumbersSpacedByX.go)
 + [정수 제곱근 판별](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level1/DetermineSqrNum.go)   
++ [나머지가 1이 되는 수 찾기](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level1/FindRemainder1.go)
++ [자연수 뒤집어 배열로 만들기](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level1/MakeReverseArrayofN.go)   
 
 </div>
 </details>
