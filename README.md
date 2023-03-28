@@ -66,6 +66,8 @@
 + [짝수와 홀수](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level1/EvenAndOdd.go)
 + [평균 구하기](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level1/CalculateMean.go)
 + [x만큼 간격이 있는 n개의 숫자](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level1/NumbersSpacedByX.go)
++ [정수 제곱근 판별](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level1/DetermineSqrNum.go)   
+
 </div>
 </details>
 
