@@ -69,6 +69,9 @@
 + [정수 제곱근 판별](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level1/DetermineSqrNum.go)   
 + [나머지가 1이 되는 수 찾기](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level1/FindRemainder1.go)
 + [자연수 뒤집어 배열로 만들기](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level1/MakeReverseArrayofN.go)   
++ [정수 내림차순으로 배치하기](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level1/SortIntegers_DescendingOrder.go)
++ [문자열을 정수로 바꾸기](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level1/CovertStringToInt.go)
++ [하샤드 수](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level1/HarshadNum.go)
 
 </div>
 </details>
