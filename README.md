@@ -72,6 +72,10 @@
 + [정수 내림차순으로 배치하기](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level1/SortIntegers_DescendingOrder.go)
 + [문자열을 정수로 바꾸기](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level1/CovertStringToInt.go)
 + [하샤드 수](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level1/HarshadNum.go)
++ [두 정수 사이의 함](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level1/SumBetweenInteger.go)
++ [콜라츠 추측](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level1/CollatzConjecture.go)
++ [서울에서 김서방 찾기](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level1/ANeedleInaHaystack.go)
++ [나누어 떨어지는 숫자 배열](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level1/DivisibleArrayOfNums.go)
 
 </div>
 </details>
