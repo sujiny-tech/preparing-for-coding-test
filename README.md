@@ -77,6 +77,8 @@
 + [서울에서 김서방 찾기](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level1/ANeedleInaHaystack.go)
 + [나누어 떨어지는 숫자 배열](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level1/DivisibleArrayOfNums.go)
 + [핸드폰 번호 가리기](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level1/HidePhoneNumber.go)
++ [음 양 더하기](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level1/AddNegativeAndPositiveNums.go)
++ [제일 작은 수 제거하기](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level1/RemoveSmallestNum.go)
 
 </div>
 </details>
