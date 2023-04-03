@@ -76,6 +76,7 @@
 + [콜라츠 추측](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level1/CollatzConjecture.go)
 + [서울에서 김서방 찾기](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level1/ANeedleInaHaystack.go)
 + [나누어 떨어지는 숫자 배열](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level1/DivisibleArrayOfNums.go)
++ [핸드폰 번호 가리기](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level1/HidePhoneNumber.go)
 
 </div>
 </details>
