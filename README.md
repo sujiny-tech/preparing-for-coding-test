@@ -86,6 +86,8 @@
 <details>
 <summary><b> level 2 </b></summary>   
 <div markdown="1">   
+
+
 + [최댓값과 최솟값](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level2/MinNumAndMaxNum.go)
 
 </div>
