@@ -90,6 +90,8 @@
 
 
 + [최댓값과 최솟값](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level2/MinNumAndMaxNum.go)
++ [피보나치 수](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level2/Fibonacci.go)   
+
 
 </div>
 </details>
