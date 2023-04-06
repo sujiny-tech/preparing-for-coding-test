@@ -79,6 +79,7 @@
 + [핸드폰 번호 가리기](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level1/HidePhoneNumber.go)
 + [음 양 더하기](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level1/AddNegativeAndPositiveNums.go)
 + [제일 작은 수 제거하기](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level1/RemoveSmallestNum.go)
++ [없는 숫자 더하기](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level1/AddNotExistedNums.go)   
 
 </div>
 </details>
