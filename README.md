@@ -80,6 +80,7 @@
 + [음 양 더하기](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level1/AddNegativeAndPositiveNums.go)
 + [제일 작은 수 제거하기](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level1/RemoveSmallestNum.go)
 + [없는 숫자 더하기](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level1/AddNotExistedNums.go)   
++ [가운데 글자 가져오기](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level1/GetMiddleLetter.go)
 
 </div>
 </details>
