@@ -1,23 +1,22 @@
-// package main
+package main
 
-// import "fmt"
+import "fmt"
 
-// func solution(s string) string {
+func solution(s string) string {
 
-// 	if len(s)%2 == 0 {
-// 		index := len(s) / 2
-// 		return string(s[index-1 : index+1])
-// 	} else {
-// 		index := len(s) / 2
-// 		return string(s[index])
-// 	}
-// }
+	if len(s)%2 == 0 {
+		index := len(s) / 2
+		return string(s[index-1 : index+1])
+	} else {
+		index := len(s) / 2
+		return string(s[index])
+	}
+}
 
-// func main() {
-// 	first := solution("abcde")
-// 	fmt.Println(first)
+func main() {
+	first := solution("abcde")
+	fmt.Println(first)
 
-// 	first = solution("qwer")
-// 	fmt.Println(first)
-// }
-// //가운데 글자 가져오기
+	first = solution("qwer")
+	fmt.Println(first)
+}
