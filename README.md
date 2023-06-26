@@ -82,6 +82,8 @@
 + [없는 숫자 더하기](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level1/AddNotExistedNums.go)   
 + [가운데 글자 가져오기](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level1/GetMiddleLetter.go)
 + [수박수박수박수박수박수?](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level1/Watermelonwater.go)
++ [약수의 개수와 덧셈](https://github.com/sujiny-tech/preparing-for-coding-test/blob/main/programmers/level1/AddOfNumDivisor.go)   
+
 </div>
 </details>
 
